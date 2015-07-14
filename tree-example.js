@@ -1,4 +1,4 @@
-var arbolCentros = [{
+var exampleTree = [{
   "c": [{
     "c": [{
       "c": [{
